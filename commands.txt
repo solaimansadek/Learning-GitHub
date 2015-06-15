@@ -1,0 +1,10 @@
+cd /							>>Going to root directory
+cd ss/Learning-GitHub			>>going to specific directory
+git init
+git add commands.txt			>>adding specific file
+git add .						>>adding all files
+git status
+git diff
+git diff --staged
+git commit -m "first commit"
+git remote add origin https://github.com/solaimansadek/Learning-GitHub.git
