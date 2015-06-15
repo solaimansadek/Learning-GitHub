@@ -8,3 +8,4 @@ git diff
 git diff --staged
 git commit -m "first commit"
 git remote add origin https://github.com/solaimansadek/Learning-GitHub.git
+git push -u origin master
